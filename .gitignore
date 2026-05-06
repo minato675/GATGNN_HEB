@@ -1,0 +1,7 @@
+.chgnet/
+.venv/
+venv/
+__pycache__/
+*.pyc
+chgnet/opt_cif/*
+!chgnet/opt_cif/.gitkeep
